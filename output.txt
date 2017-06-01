@@ -1,0 +1,16 @@
+LOOKUP, DIRECTOR, George Lucas
+Star Wars,12/23/1970,George Lucas,672312312
+American Graffiti,03/24/1968,George Lucas,611232342
+LOOKUP, TITLE, A*
+DISPLAY, DATE, 1, 2
+Star Wars,12/23/1970,George Lucas,672312312
+Chitty Chitty Bang Bang,12/18/1968,Ken Hughes,681231231
+DISPLAY, DIRECTOR, 0, 50
+American Graffiti,03/24/1968,George Lucas,611232342
+Star Wars,12/23/1970,George Lucas,672312312
+Aliens,04/18/1986,James Cameron,703211234
+Chitty Chitty Bang Bang,12/18/1968,Ken Hughes,681231231
+DISPLAY, TITLE, 1, 3
+Star Wars,12/23/1970,George Lucas,672312312
+Chitty Chitty Bang Bang,12/18/1968,Ken Hughes,681231231
+American Graffiti,03/24/1968,George Lucas,611232342
